@@ -1,0 +1,60 @@
+Repeating EIS and OCV
+Plus1307, Channel 1
+Firmware Version : 2020 June 5 Plus 2.3b firmware
+Software Version : Squidstat User Interface v2.06.05.2020
+Version : Windows64
+
+Physical Parameters:
+Working Electrode Area (cm2): 
+Working Electrode Mass (g): 
+Working Electrode Volume (cm3): 
+Electrolyte: 
+Electrolyte concentration (moles per liter): 
+Temperature (deg. C): 
+Atmosphere: 
+
+Reference Electrode:
+Common Reference Electrode: Ag/AgCl in 0.1M KCl
+Working Electrode vs. NHE (V): 0.2894
+
+Other Notes:
+Repeating EIS and OCV experiment, data file
+2-: sample 1
+4-: sample 2
+6-: sample 3
+
+
+Experiment Parameters:
+Loop 1 start, execute 3 time(s) total
+
+Step 1) Potentiostatic EIS parameters
+Starting frequency: 1000kHz
+Ending frequency: 1Hz
+Steps per decade: 5
+DC bias potential: 0V, with respect to reference
+AC amplitude: 10mV
+Execute 1 time(s)
+
+Step 2) Open circuit parameters
+Sampling interval: 1 s
+Maximum duration: 60 s
+Maximum potential: 12V
+Minimum potential: -12V
+Minimum potential rate of change: 0 mV/s
+Execute 1 time(s)
+
+Loop 1 end
+
+
+
+Potentiostat Stability: Capacitive loading (current <= 1mA)
+
+IR Drop Compensation: 
+Uncompensated Resistance: 0
+Compensation Level (0% - 100%): 0%
+
+Data Sampling Options: 
+Maximum data averaging period: 0.1 s
+Alpha-Factor:  75%
+Minimum number of cycles: 2
+Show data sampled during experiment "quiet times":  false

@@ -1,0 +1,7 @@
+"Step number","Step name","Elapsed Time (s)","Working Electrode (V)","Working Electrode vs. NHE (V)","Current (mA)","Current Density (mA/cm²)","Cumulative Charge (mAh)","Counter Electrode (V)"
+2_1,Open Circuit Potential,209.8532535,-0.0001102983952,0.2892897016,0,0,0,-8.147940389e-05
+2_1,Open Circuit Potential,210.8532535,-0.0001444853842,0.2892555146,0,0,0,-8.491289191e-05
+2_1,Open Circuit Potential,211.8532535,-0.0001472663134,0.2892527337,0,0,0,-6.253061292e-05
+2_1,Open Circuit Potential,212.8532535,-0.0001355484128,0.2892644516,0,0,0,-6.506427599e-05
+2_1,Open Circuit Potential,213.8532535,-0.0001431424171,0.2892568576,0,0,0,-8.098956459e-05
+2_1,Open Circuit Potential,214.8532542,-0.0001316424459,0.2892683576,0,0,0,-5.28315868e-05
