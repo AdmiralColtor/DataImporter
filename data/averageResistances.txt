@@ -1,0 +1,3 @@
+Sample 1: 2.6638848188812903 kilo ohms
+Sample 2: 2.663263322318065 kilo ohms
+Sample 3: 2.66391947863 kilo ohms
